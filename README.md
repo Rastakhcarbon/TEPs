@@ -1,4 +1,15 @@
-# TON Enhancement Proposals (TEPs)
+# Welcome to Restalux's GitHub 🚀
+
+Hi! I'm **Resta Lux**, explorer of blockchain, NFTs, and quantum creativity 🌌.
+
+I build TON smart contracts, creative NFT standards, and experimental projects that push the boundaries of Web3.
+
+## Featured Projects
+- **TON TEPs Collection**: Organized, GitHub-friendly TEPs tables for TON blockchain.
+- **Quantum NFT Experiments**: NFT projects that exist across multiple blockchains simultaneously.
+- **AI-Powered NFTs**: Smart NFTs enhanced by AI to evolve and adapt.
+
+Follow me to explore innovation beyond the edge 🚀.# TON Enhancement Proposals (TEPs)
 
 > :warning: **WARNING:** this proposal system is experimental now, the process is a subject to change.
 
